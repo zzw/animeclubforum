@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the AnimeClubForum feature.
+ */
+
+include_once('animeclubforum.features.inc');
